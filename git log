@@ -1,0 +1,23 @@
+[33mcommit 141018af352e246c4e1e28d9d0df4e22f816fee0[m[33m ([m[1;36mHEAD -> [m[1;32mfirst-branch[m[33m)[m
+Author: F.Jannesary <fjannesary18@chmail.ir>
+Date:   Wed Jan 12 00:32:12 2022 +0330
+
+    add the other student number to MyResume.txt
+
+[33mcommit 38563b1e44c069c2c0a1810ecfe2e5907878c063[m
+Author: F.Jannesary <fjannesary18@chmail.ir>
+Date:   Tue Jan 11 23:58:16 2022 +0330
+
+    add student number to MyResume.txt
+
+[33mcommit b27ce5805edd2310883fb1f8921c771230645c5e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: F.Jannesary <fjannesary18@chmail.ir>
+Date:   Tue Jan 11 23:48:47 2022 +0330
+
+    add MyResume text
+
+[33mcommit 537b21cad9a7e2e0b72567fd1e2530a50247f7ad[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Sun Jan 9 09:26:34 2022 +0000
+
+    Initial commit
