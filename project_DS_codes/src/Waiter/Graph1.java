@@ -1,5 +1,4 @@
-package Waiter;// Java program to implement Waiter.Graph
-// with the help of Generics
+package Waiter;
 
 import java.util.*;
 

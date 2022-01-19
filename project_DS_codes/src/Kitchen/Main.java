@@ -210,6 +210,10 @@ public class Main {
             }
         }
 
+        System.out.println(kitchen.foods.size());
+        for (Food f: kitchen.foods){
+            System.out.println(f.name + " " + f.totalTime);
+        }
     }
 }
 /*

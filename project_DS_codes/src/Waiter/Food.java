@@ -2,6 +2,13 @@ package Waiter;
 
 public class Food {
     int cookingTime;
-    Table table;
+    String name;
 
+    public Food(String name,int cookingTime) {
+        this.cookingTime = cookingTime;
+        this.name = name;
+    }
+    public int getCookingTime(){
+        return this.cookingTime;
+    }
 }
